@@ -20,7 +20,7 @@ This script allows you to use theHarvester to gather information from a specifie
 ### Example
 ```bash
 ./script_name.sh https://example.com
-
+```
 ### Important Note
 
 - Ensure you have a file named `sources.txt` in the same directory as the script. This file should contain a list of sources to be used by theHarvester.
